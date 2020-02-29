@@ -24,8 +24,16 @@ KSVD tool box is downloaded from http://www.cs.technion.ac.il/~ronrubin/software
 spams-matlab is downloaded from http://spams-devel.gforge.inria.fr/.  
 
 Please refer to the following paper
-P. Zhu,W.Zuo, L.Zhang, S.Shiu, D. Zhang. Image Set based Collaborative Representation for Face Recognition. IEEE Tran. on % 
-Information Forensics and Security
+@article{zhu2014image,
+  title={Image set-based collaborative representation for face recognition},
+  author={Zhu, Pengfei and Zuo, Wangmeng and Zhang, Lei and Shiu, Simon Chi-Keung and Zhang, David},
+  journal={IEEE transactions on information forensics and security},
+  volume={9},
+  number={7},
+  pages={1120--1132},
+  year={2014},
+  publisher={IEEE}
+}
 
 Contact: {zhupengfeifly}@gmail.com
 Homepage: http://www4.comp.polyu.edu.hk/~cspzhu/
